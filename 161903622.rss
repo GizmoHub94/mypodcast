@@ -4,9 +4,9 @@
 <title>i hope so podcast</title>
 <link>https://github.com/GizmoHub94/mypodcast</link>
 <language>en</language>
-<copyright>i hope so podcast</copyright>
+<copyright>i hope so productions</copyright>
 <description>
-Available exclusively on Apple Podcasts, Amazon Music and Spotify it's the i hope so podcast! Minisodes with fun guest interviews where anyone can host or submit anything they want to be on the show!
+Available exclusively on Amazon Music and Spotify it's the i hope so podcast! Minisodes with fun guest interviews and anyone can host or submit anything they want to be on the show!
 </description>
 <image>
 <url>https://gizmohub94.github.io/mypodcast/image/ihopesopodcastartwork1.png</url>
@@ -16,15 +16,15 @@ Available exclusively on Apple Podcasts, Amazon Music and Spotify it's the i hop
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <itunes:subtitle/>
-<itunes:author>i hope so podcast</itunes:author>
+<itunes:author>i hope so productions</itunes:author>
 <itunes:summary>
-Available exclusively on Apple Podcasts, Amazon Music and Spotify it's the i hope so podcast! Minisodes with fun guest interviews where anyone can host or submit anything they want to be on the show!
+Available exclusively on Amazon Music and Spotify it's the i hope so podcast! Minisodes with fun guest interviews and anyone can host or submit anything they want to be on the show!
 </itunes:summary>
 <content:encoded>
-<![CDATA[ Available exclusively on Apple Podcasts, Amazon Music and Spotify it's the i hope so podcast! Minisodes with fun guest interviews where anyone can host or submit anything they want to be on the show! ]]>
+<![CDATA[ Available exclusively on Amazon Music and Spotify it's the i hope so podcast! Minisodes with fun guest interviews and anyone can host or submit anything they want to be on the show! ]]>
 </content:encoded>
 <itunes:owner>
-<itunes:name>i hope so podcast</itunes:name>
+<itunes:name>i hope so productions</itunes:name>
 <itunes:email>lowercase-rebel@att.net</itunes:email>
 </itunes:owner>
 <itunes:image href="https://gizmohub94.github.io/mypodcast/image/ihopesopodcastartwork1.png"/>
@@ -44,12 +44,12 @@ Ellie Adair is a American indie rock musician from North Carolina. Follow her on
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:season></itunes:season>
 <itunes:episode>1</itunes:episode>
-<itunes:author>i hope so podcast</itunes:author>
+<itunes:author>i hope so productions</itunes:author>
 <itunes:image href="https://gizmohub94.github.io/mypodcast/image/lowercaseartwork8.png"/>
 <pubDate>Sun, 28 Feb 2026 07:00:00 +0000</pubDate>
-<itunes:duration>0434</itunes:duration>
-<enclosure url="https://gizmohub94.github.io/mypodcast/audio/ihse1.mp3" length="4970000" type="audio/mpeg"/>
-<link>https://github.com/GizmoHub94/mypodcast/blob/main/audio/ihse1.mp3</link>
+<itunes:duration>0430</itunes:duration>
+<enclosure url="https://gizmohub94.github.io/mypodcast/audio/ihspe1.mp3" length="4920000" type="audio/mpeg"/>
+<link>https://github.com/GizmoHub94/mypodcast/blob/main/audio/ihspe1.mp3</link>
 </item>
 <item>
 <title>Episode 2 - John Mavroudis</title>
@@ -66,12 +66,12 @@ Ladies &amp; Gentleman, John Mavroudis.
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:season></itunes:season>
 <itunes:episode>2</itunes:episode>
-<itunes:author>i hope so podcast</itunes:author>
+<itunes:author>i hope so productions</itunes:author>
 <itunes:image href="https://gizmohub94.github.io/mypodcast/image/lowercaseartwork8.png"/>
 <pubDate>Tue, 14 Jul 2026 07:00:00 +0000</pubDate>
-<itunes:duration>0470</itunes:duration>
-<enclosure url="https://gizmohub94.github.io/mypodcast/audio/ihse2.mp3" length="5390000" type="audio/mpeg"/>
-<link>https://github.com/GizmoHub94/mypodcast/blob/main/audio/ihse2.mp3</link>
+<itunes:duration>0434</itunes:duration>
+<enclosure url="https://gizmohub94.github.io/mypodcast/audio/ihspe2.mp3" length="4980000" type="audio/mpeg"/>
+<link>https://github.com/GizmoHub94/mypodcast/blob/main/audio/ihspe2.mp3</link>
 </item>
 <item>
 <title>Episode 3 - Britney Nwankwor</title>
@@ -88,12 +88,12 @@ my sister joins me on the podcast
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:season></itunes:season>
 <itunes:episode>3</itunes:episode>
-<itunes:author>i hope so podcast</itunes:author>
+<itunes:author>i hope so productions</itunes:author>
 <itunes:image href="https://gizmohub94.github.io/mypodcast/image/lowercaseartwork8.png"/>
 <pubDate>Wed, 15 Jul 2026 07:00:00 +0000</pubDate>
-<itunes:duration>0519</itunes:duration>
-<enclosure url="https://gizmohub94.github.io/mypodcast/audio/ihse3.mp3" length="5940000" type="audio/mpeg"/>
-<link>https://github.com/GizmoHub94/mypodcast/blob/main/audio/ihse3.mp3</link>
+<itunes:duration>0510</itunes:duration>
+<enclosure url="https://gizmohub94.github.io/mypodcast/audio/ihspe3.mp3" length="5850000" type="audio/mpeg"/>
+<link>https://github.com/GizmoHub94/mypodcast/blob/main/audio/ihspe3.mp3</link>
 </item>
 <item>
 <title>Episode 4 - Episode 004</title>
@@ -110,12 +110,12 @@ the first untitled episode!
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:season></itunes:season>
 <itunes:episode>4</itunes:episode>
-<itunes:author>i hope so podcast</itunes:author>
+<itunes:author>i hope so productions</itunes:author>
 <itunes:image href="https://gizmohub94.github.io/mypodcast/image/lowercaseartwork8.png"/>
 <pubDate>Sun, 09 Aug 2026 07:00:00 +0000</pubDate>
-<itunes:duration>0333</itunes:duration>
-<enclosure url="https://gizmohub94.github.io/mypodcast/audio/ihse4.mp3" length="3820000" type="audio/mpeg"/>
-<link>https://github.com/GizmoHub94/mypodcast/blob/main/audio/ihse4.mp3</link>
+<itunes:duration>0251</itunes:duration>
+<enclosure url="https://gizmohub94.github.io/mypodcast/audio/ihspe4.mp3" length="2880000" type="audio/mpeg"/>
+<link>https://github.com/GizmoHub94/mypodcast/blob/main/audio/ihspe4.mp3</link>
 </item>
 <item>
 <title>Episode 5 - Ellie Adair</title>
@@ -132,12 +132,12 @@ Ellie Adair is back! She feels at home at bandcamp after releasing her debut alb
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:season></itunes:season>
 <itunes:episode>5</itunes:episode>
-<itunes:author>i hope so podcast</itunes:author>
+<itunes:author>i hope so productions</itunes:author>
 <itunes:image href="https://gizmohub94.github.io/mypodcast/image/lowercaseartwork8.png"/>
 <pubDate>Mon, 10 Aug 2026 07:00:00 +0000</pubDate>
-<itunes:duration>0535</itunes:duration>
-<enclosure url="https://gizmohub94.github.io/mypodcast/audio/ihse5.mp3" length="6130000" type="audio/mpeg"/>
-<link>https://github.com/GizmoHub94/mypodcast/blob/main/audio/ihse5.mp3</link>
+<itunes:duration>0508</itunes:duration>
+<enclosure url="https://gizmohub94.github.io/mypodcast/audio/ihspe5.mp3" length="5820000" type="audio/mpeg"/>
+<link>https://github.com/GizmoHub94/mypodcast/blob/main/audio/ihspe5.mp3</link>
 </item>
 <item>
 <title>Episode 6 - Season 2</title>
@@ -154,12 +154,12 @@ The i hope so podcast returns for season 2!
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:season></itunes:season>
 <itunes:episode>6</itunes:episode>
-<itunes:author>i hope so podcast</itunes:author>
+<itunes:author>i hope so productions</itunes:author>
 <itunes:image href="https://gizmohub94.github.io/mypodcast/image/ihopesopodcastartwork1.png"/>
 <pubDate>Tue, 29 Sep 2026 07:00:00 +0000</pubDate>
 <itunes:duration>0076</itunes:duration>
-<enclosure url="https://gizmohub94.github.io/mypodcast/audio/ihse6.mp3" length="895500" type="audio/mpeg"/>
-<link>https://github.com/GizmoHub94/mypodcast/blob/main/audio/ihse6.mp3</link>
+<enclosure url="https://gizmohub94.github.io/mypodcast/audio/ihspe6.mp3" length="895500" type="audio/mpeg"/>
+<link>https://github.com/GizmoHub94/mypodcast/blob/main/audio/ihspe6.mp3</link>
 </item>
 </channel>
 </rss>
