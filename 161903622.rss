@@ -161,5 +161,27 @@ The i hope so podcast returns for season 2!
 <enclosure url="https://gizmohub94.github.io/mypodcast/audio/ihspe6.mp3" length="895500" type="audio/mpeg"/>
 <link>https://github.com/GizmoHub94/mypodcast/blob/main/audio/ihspe6.mp3</link>
 </item>
+<item>
+<title>Episode 7 - ActivistNaz</title>
+<itunes:title>Episode 7 - ActivistNaz</itunes:title>
+<description>
+ActivistNaz is a underground hip-hop and rap music producer I met in the army and joins me for this episode of season 2.
+</description>
+<itunes:summary>
+ActivistNaz is a underground hip-hop and rap music producer I met in the army and joins me for this episode of season 2.
+</itunes:summary>
+<content:encoded>
+<![CDATA[ <p>ActivistNaz is a underground hip-hop and rap music producer I met in the army and joins me for this episode of season 2.</p> ]]>
+</content:encoded>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:season></itunes:season>
+<itunes:episode>7</itunes:episode>
+<itunes:author>i hope so productions</itunes:author>
+<itunes:image href="https://gizmohub94.github.io/mypodcast/image/ihopesopodcastartwork1.png"/>
+<pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
+<itunes:duration>0429</itunes:duration>
+<enclosure url="https://gizmohub94.github.io/mypodcast/audio/ihspe7.mp3" length="4920000" type="audio/mpeg"/>
+<link>https://github.com/GizmoHub94/mypodcast/blob/main/audio/ihspe7.mp3</link>
+</item>
 </channel>
 </rss>
